@@ -1,0 +1,1 @@
+A shell script that prints the even numbered lines of each file in the current directory. The output is [filename: line#].
